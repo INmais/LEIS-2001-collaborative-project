@@ -5,12 +5,11 @@ How to set up Github Account:
 
 How to save in Google IN+ Repository
 
-1. ![step_1]:(https://github.com/INmais/LEIS-2001-collaborative-project/blob/main/General/Assets/step_1.png) 
+1. 
+![alt text]:(https://github.com/INmais/LEIS-2001-collaborative-project/blob/main/General/Assets/step_1.png?raw=true) 
 2. 
-![alt text][logo2]
-[logo2]:https://github.com/INmais/LEIS-2001-collaborative-project/blob/main/General/Assets/step_2.png 
+![alt text]:(https://github.com/INmais/LEIS-2001-collaborative-project/blob/main/General/Assets/step_2.png?raw=true)
 3. 
-![alt text][logo3]
-[logo3]:https://github.com/INmais/LEIS-2001-collaborative-project/blob/main/General/Assets/step_3.png 
+![alt text]:https://github.com/INmais/LEIS-2001-collaborative-project/blob/main/General/Assets/step_3.png?raw=true
 
 How to load data (not local): 

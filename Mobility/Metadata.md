@@ -15,6 +15,16 @@ DGEG
 Consumo por municipio e sector de Actividade
 url: https://www.dgeg.gov.pt/pt/estatistica/energia/eletricidade/consumo-por-municipio-e-setor-de-atividade/
 
+
+
+Fuel Sales DGEG
+
+Data source: DGEG Date: 13-03-2021
+
+Direção-Geral de Energia e Geologia Vendas de Produtos do Petróleo no Mercado Interno por Sector de Actividade Económica e Município em 2018 (provisório) Direção de Serviços de Planeamento Energético e Estatística Unidade: tonelada
+
+NUTsII V00034 (All) NUTsI (All) Actividade Económica 49-Transportes terrestres e transportes por oledutos ou gasodutos NUTsII V00030 (All) Distrito/Ilha (All) Qtd (ton) Produto
+
 INE: 
 Estimativas anuais da população residente
 url: https://www.ine.pt/xportal/xmain?xpid=INE&xpgid=ine_indicadores&contecto=pi&indOcorrCod=0008485&selTab=tab0

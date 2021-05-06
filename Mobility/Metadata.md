@@ -11,3 +11,23 @@ Tags: concelhosdados-geograficosshapefiles
 Coverage: National (Mainland + Islands9
 
 
+DGEG 
+Consumo por municipio e sector de Actividade
+url: https://www.dgeg.gov.pt/pt/estatistica/energia/eletricidade/consumo-por-municipio-e-setor-de-atividade/
+
+INE: 
+Estimativas anuais da população residente
+url: https://www.ine.pt/xportal/xmain?xpid=INE&xpgid=ine_indicadores&contecto=pi&indOcorrCod=0008485&selTab=tab0
+
+Indicador selecionado: Consultar Metainformação associada População residente (N.º) por Local de residência (NUTS - 2013), Sexo e Grupo etário (Por ciclos de vida); Anual - INE, Estimativas anuais da população residente
+
+Valor acrescentado bruto
+url: https://www.ine.pt/xportal/xmain?xpid=INE&xpgid=ine_indicadores&indOcorrCod=0008272&contexto=bd&selTab=tab2
+
+Valor acrescentado bruto (€) das Empresas por Localização geográfica (NUTS - 2013) e Atividade económica (Divisão - CAE Rev. 3); Anual - INE, Sistema de contas integradas das empresas Quadro extraído em 19 de Abril de 2021 (14:06:00)
+
+Emission Reporting
+
+Base The Covenant of Mayors for Climate and Energy Reporting Guidelines
+
+url: https://www.covenantofmayors.eu/IMG/pdf/Covenant_ReportingGuidelines.pdf
